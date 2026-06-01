@@ -34,6 +34,17 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ---
 
+
+##  Capacitats tècniques
+
+-  Muntatge i manteniment d'equips
+-  Diagnòstic de maquinari i programari
+-  Instal·lació i configuració de sistemes operatius
+-  Suport tècnic a usuaris
+-  Configuració bàsica de xarxes
+-  Entorns virtualitzats
+-  Implementació de serveis (web, FTP i correu electrònic)
+
 ##  Interessos tècnics
 
 <p align="center">
