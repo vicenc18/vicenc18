@@ -24,7 +24,7 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 ## Experiència
 
 ###  Administrador de Sistemes (Pràctiques)
-📍 *Institut Pia Granollers*  
+📍 *Pia Santa Anna de Granollers*  
 ⏳ 6 mesos  
 
 - Suport tècnic a usuaris  
