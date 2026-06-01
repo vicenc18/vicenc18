@@ -2,8 +2,12 @@
  
 #  Vicenç Obiol Boter
 
-> 💻 Apassionat per la ciberseguretat | Ethical Hacking & OSINT  
-> 🎯 Estudiant de SMX — en constant aprenentatge
+![Ubicació](https://img.shields.io/badge/Ubicació-Barcelona-blue)
+![Edat](https://img.shields.io/badge/Edat-18-lightgrey)
+![Estat](https://img.shields.io/badge/Estat-Disponible-brightgreen)
+![Formació](https://img.shields.io/badge/Formació-SMX-orange)
+</div>
+
 
 ---
 
@@ -32,18 +36,15 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ##  Interessos tècnics
 
-- 🔐 Ciberseguretat  
-- 🧑‍💻 Hacking ètic  
-- 🔎 OSINT  
-- 🌐 Sistemes i xarxes  
+<p align="center">
 
----
+![OSINT](https://img.shields.io/badge/OSINT-6A0DAD?style=for-the-badge&logo=search&logoColor=white)
+![Ciberseguretat](https://img.shields.io/badge/Ciberseguretat-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Hacking Ètic](https://img.shields.io/badge/Hacking_Ètic-111827?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Xarxes i Sistemes](https://img.shields.io/badge/Xarxes_i_sistemes-0284C7?style=for-the-badge&logo=cisco&logoColor=white)
 
-## 🎓 Formació
-- ESO (Formació Secundaria Obligatoria)
-- 📚 Grau Mitjà en Sistemes Microinformàtics i Xarxes (en curs)
+</p>
 
----
 
 ##  Idiomes
 
@@ -54,10 +55,9 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 ---
 
 ##  Interessos personals
-
-- 🏔️ Alta muntanya  
-- 📸 Fotografia de paisatges  
-- 🍛 Cuina — especialment el **arròs a la cubana**
+![🏔️ Alta muntanya](https://img.shields.io/badge/🏔️_Alta_muntanya-4CAF50?style=for-the-badge)
+![📸 Fotografia de paisatges](https://img.shields.io/badge/📸_Fotografia_de_paisatges-2196F3?style=for-the-badge)
+![🍛 Arròs a la cubana](https://img.shields.io/badge/🍛_Arròs_a_la_cubana-FF9800?style=for-the-badge)
 
 ---
 
